@@ -1,0 +1,11 @@
+name = "chicken-road-reviewapp-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chicken-road-reviewapp.com"
+HMAC_KEY = "f712411b801507d7af83662904ace743fc627ea9d2c242342589f34fad15f7c8"
+COOKIE_NAME = "vtg"
+PLAY_PATH = "begin"
+BUTTON_ID = "pbd7f313cc09b77e0734d001ed7f331db"
+GATE_SALT = "c49cd88a8036800e"
